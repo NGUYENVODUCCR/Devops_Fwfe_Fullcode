@@ -19,19 +19,19 @@ Smart_Ballbook/
 - App: https://fwfe.duckdns.org/
 
 ## Account với 3 ROLE
-- ROLE_ADMIN
-username: admin1
+- ROLE_ADMIN \
+username: admin1 \
 password: Duc1234@
 
-- ROLE_MANAGER
-username: managerhieu
+- ROLE_MANAGER \
+username: managerhieu \
 password: Devops123@
 
-- ROLE_USER
-username: duc
+- ROLE_USER \
+username: duc \
 password: VoDuc1234@
 
-username: ha
+username: ha \
 password: Devops123@
 
 
