@@ -29,7 +29,7 @@ password: Devops123@
 
 - ROLE_USER \
 username: duc \
-password: VoDuc1234@
+password: VoDuc1234@ \
 
 username: ha \
 password: Devops123@
