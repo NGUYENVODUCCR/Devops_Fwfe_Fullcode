@@ -28,11 +28,10 @@ username: managerhieu \
 password: Devops123@
 
 - ROLE_USER \
-username: duc \
-password: VoDuc1234@ \
-
-username: ha \
-password: Devops123@
+username1: duc \
+password1: VoDuc1234@ \
+username2: ha \
+password2: Devops123@
 
 
 ## BACKEND
